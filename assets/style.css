@@ -117,7 +117,7 @@ border: 1px solid rgba(16, 216, 16, 0.644);
 
 
 #name-jane:focus {
-    outline: 2px solid rgba(16, 216, 16, 0.644);
+    outline: 2px solid #038e7d;
 }
 
 
@@ -135,7 +135,7 @@ border: 1px solid rgba(16, 216, 16, 0.644);
 
 
 #name-doe:focus {
-    outline: 2px solid rgba(16, 216, 16, 0.644);
+    outline: 2px solid #038e7d;
 }
 
 #name-doe:hover {
@@ -170,7 +170,7 @@ border: 1px solid rgba(16, 216, 16, 0.644);
 }
 
 #email:focus {
-    outline: 2px solid rgba(16, 216, 16, 0.644);
+    outline: 2px solid #038e7d;
 }
 
 
@@ -218,7 +218,7 @@ border: 1px solid rgba(16, 216, 16, 0.644);
 }
 
 #num:focus {
-    outline: 2px solid rgba(16, 216, 16, 0.644);
+    outline: 2px solid #038e7d;
 }
 
 
@@ -251,7 +251,7 @@ border: 1px solid rgba(16, 216, 16, 0.644);
 }
 
 #date:focus {
-    outline: 2px solid rgba(16, 216, 16, 0.644);
+    outline: 2px solid #038e7d;
 }
 
 
@@ -274,7 +274,7 @@ border: 1px solid rgba(16, 216, 16, 0.644);
 }
 
 #ccv:focus {
-    outline: 2px solid rgba(16, 216, 16, 0.644);
+    outline: 2px solid #038e7d;
 }
 
 
